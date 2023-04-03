@@ -1,439 +1,1441 @@
-WebAppMVC\About.JPG
-WebAppMVC\Contact.JPG
-WebAppMVC\MainPage.JPG
-WebAppMVC\packages
-WebAppMVC\WebAppMVC
-WebAppMVC\WebAppMVC.sln
-WebAppMVC\.vs\WebAppMVC
-WebAppMVC\.vs\WebAppMVC\config
-WebAppMVC\.vs\WebAppMVC\v16
-WebAppMVC\.vs\WebAppMVC\config\applicationhost.config
-WebAppMVC\packages\Antlr.3.5.0.2
-WebAppMVC\packages\bootstrap.3.4.1
-WebAppMVC\packages\jQuery.3.4.1
-WebAppMVC\packages\jQuery.Validation.1.17.0
-WebAppMVC\packages\Microsoft.AspNet.Mvc.5.2.7
-WebAppMVC\packages\Microsoft.AspNet.Razor.3.2.7
-WebAppMVC\packages\Microsoft.AspNet.Web.Optimization.1.1.3
-WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
-WebAppMVC\packages\Microsoft.jQuery.Unobtrusive.Validation.3.2.11
-WebAppMVC\packages\Microsoft.Web.Infrastructure.1.0.0.0
-WebAppMVC\packages\Modernizr.2.8.3
-WebAppMVC\packages\Newtonsoft.Json.12.0.2
-WebAppMVC\packages\WebGrease.1.6.0
-WebAppMVC\packages\Antlr.3.5.0.2\.signature.p7s
-WebAppMVC\packages\Antlr.3.5.0.2\Antlr.3.5.0.2.nupkg
-WebAppMVC\packages\Antlr.3.5.0.2\lib
-WebAppMVC\packages\Antlr.3.5.0.2\lib\Antlr3.Runtime.dll
-WebAppMVC\packages\Antlr.3.5.0.2\lib\Antlr3.Runtime.pdb
-WebAppMVC\packages\bootstrap.3.4.1\.signature.p7s
-WebAppMVC\packages\bootstrap.3.4.1\bootstrap.3.4.1.nupkg
-WebAppMVC\packages\bootstrap.3.4.1\content
-WebAppMVC\packages\bootstrap.3.4.1\contentFiles
-WebAppMVC\packages\bootstrap.3.4.1\LICENSE.txt
-WebAppMVC\packages\bootstrap.3.4.1\content\Content
-WebAppMVC\packages\bootstrap.3.4.1\content\fonts
-WebAppMVC\packages\bootstrap.3.4.1\content\Scripts
-WebAppMVC\packages\bootstrap.3.4.1\content\Content\bootstrap-theme.css
-WebAppMVC\packages\bootstrap.3.4.1\content\Content\bootstrap-theme.css.map
-WebAppMVC\packages\bootstrap.3.4.1\content\Content\bootstrap-theme.min.css
-WebAppMVC\packages\bootstrap.3.4.1\content\Content\bootstrap-theme.min.css.map
-WebAppMVC\packages\bootstrap.3.4.1\content\Content\bootstrap.css
-WebAppMVC\packages\bootstrap.3.4.1\content\Content\bootstrap.css.map
-WebAppMVC\packages\bootstrap.3.4.1\content\Content\bootstrap.min.css
-WebAppMVC\packages\bootstrap.3.4.1\content\Content\bootstrap.min.css.map
-WebAppMVC\packages\bootstrap.3.4.1\content\fonts\glyphicons-halflings-regular.eot
-WebAppMVC\packages\bootstrap.3.4.1\content\fonts\glyphicons-halflings-regular.svg
-WebAppMVC\packages\bootstrap.3.4.1\content\fonts\glyphicons-halflings-regular.ttf
-WebAppMVC\packages\bootstrap.3.4.1\content\fonts\glyphicons-halflings-regular.woff
-WebAppMVC\packages\bootstrap.3.4.1\content\fonts\glyphicons-halflings-regular.woff2
-WebAppMVC\packages\bootstrap.3.4.1\content\Scripts\bootstrap.js
-WebAppMVC\packages\bootstrap.3.4.1\content\Scripts\bootstrap.min.js
-WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Content
-WebAppMVC\packages\bootstrap.3.4.1\contentFiles\fonts
-WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Scripts
-WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Content\bootstrap-theme.css
-WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Content\bootstrap-theme.css.map
-WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Content\bootstrap-theme.min.css
-WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Content\bootstrap-theme.min.css.map
-WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Content\bootstrap.css
-WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Content\bootstrap.css.map
-WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Content\bootstrap.min.css
-WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Content\bootstrap.min.css.map
-WebAppMVC\packages\bootstrap.3.4.1\contentFiles\fonts\glyphicons-halflings-regular.eot
-WebAppMVC\packages\bootstrap.3.4.1\contentFiles\fonts\glyphicons-halflings-regular.svg
-WebAppMVC\packages\bootstrap.3.4.1\contentFiles\fonts\glyphicons-halflings-regular.ttf
-WebAppMVC\packages\bootstrap.3.4.1\contentFiles\fonts\glyphicons-halflings-regular.woff
-WebAppMVC\packages\bootstrap.3.4.1\contentFiles\fonts\glyphicons-halflings-regular.woff2
-WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Scripts\bootstrap.js
-WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Scripts\bootstrap.min.js
-WebAppMVC\packages\jQuery.3.4.1\.signature.p7s
-WebAppMVC\packages\jQuery.3.4.1\Content
-WebAppMVC\packages\jQuery.3.4.1\jQuery.3.4.1.nupkg
-WebAppMVC\packages\jQuery.3.4.1\Tools
-WebAppMVC\packages\jQuery.3.4.1\Content\Scripts
-WebAppMVC\packages\jQuery.3.4.1\Content\Scripts\jquery-3.4.1-vsdoc.js
-WebAppMVC\packages\jQuery.3.4.1\Content\Scripts\jquery-3.4.1.js
-WebAppMVC\packages\jQuery.3.4.1\Content\Scripts\jquery-3.4.1.min.js
-WebAppMVC\packages\jQuery.3.4.1\Content\Scripts\jquery-3.4.1.min.map
-WebAppMVC\packages\jQuery.3.4.1\Content\Scripts\jquery-3.4.1.slim.js
-WebAppMVC\packages\jQuery.3.4.1\Content\Scripts\jquery-3.4.1.slim.min.js
-WebAppMVC\packages\jQuery.3.4.1\Content\Scripts\jquery-3.4.1.slim.min.map
-WebAppMVC\packages\jQuery.3.4.1\Tools\common.ps1
-WebAppMVC\packages\jQuery.3.4.1\Tools\install.ps1
-WebAppMVC\packages\jQuery.3.4.1\Tools\jquery-3.4.1.intellisense.js
-WebAppMVC\packages\jQuery.3.4.1\Tools\uninstall.ps1
-WebAppMVC\packages\jQuery.Validation.1.17.0\.signature.p7s
-WebAppMVC\packages\jQuery.Validation.1.17.0\Content
-WebAppMVC\packages\jQuery.Validation.1.17.0\jQuery.Validation.1.17.0.nupkg
-WebAppMVC\packages\jQuery.Validation.1.17.0\Content\Scripts
-WebAppMVC\packages\jQuery.Validation.1.17.0\Content\Scripts\jquery.validate-vsdoc.js
-WebAppMVC\packages\jQuery.Validation.1.17.0\Content\Scripts\jquery.validate.js
-WebAppMVC\packages\jQuery.Validation.1.17.0\Content\Scripts\jquery.validate.min.js
-WebAppMVC\packages\Microsoft.AspNet.Mvc.5.2.7\.signature.p7s
-WebAppMVC\packages\Microsoft.AspNet.Mvc.5.2.7\Content
-WebAppMVC\packages\Microsoft.AspNet.Mvc.5.2.7\lib
-WebAppMVC\packages\Microsoft.AspNet.Mvc.5.2.7\Microsoft.AspNet.Mvc.5.2.7.nupkg
-WebAppMVC\packages\Microsoft.AspNet.Mvc.5.2.7\Content\Web.config.install.xdt
-WebAppMVC\packages\Microsoft.AspNet.Mvc.5.2.7\Content\Web.config.uninstall.xdt
-WebAppMVC\packages\Microsoft.AspNet.Mvc.5.2.7\lib\net45
-WebAppMVC\packages\Microsoft.AspNet.Mvc.5.2.7\lib\net45\System.Web.Mvc.dll
-WebAppMVC\packages\Microsoft.AspNet.Mvc.5.2.7\lib\net45\System.Web.Mvc.xml
-WebAppMVC\packages\Microsoft.AspNet.Razor.3.2.7\.signature.p7s
-WebAppMVC\packages\Microsoft.AspNet.Razor.3.2.7\lib
-WebAppMVC\packages\Microsoft.AspNet.Razor.3.2.7\Microsoft.AspNet.Razor.3.2.7.nupkg
-WebAppMVC\packages\Microsoft.AspNet.Razor.3.2.7\lib\net45
-WebAppMVC\packages\Microsoft.AspNet.Razor.3.2.7\lib\net45\System.Web.Razor.dll
-WebAppMVC\packages\Microsoft.AspNet.Razor.3.2.7\lib\net45\System.Web.Razor.xml
-WebAppMVC\packages\Microsoft.AspNet.Web.Optimization.1.1.3\.signature.p7s
-WebAppMVC\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib
-WebAppMVC\packages\Microsoft.AspNet.Web.Optimization.1.1.3\Microsoft.AspNet.Web.Optimization.1.1.3.nupkg
-WebAppMVC\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40
-WebAppMVC\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll
-WebAppMVC\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\system.web.optimization.xml
-WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\.signature.p7s
-WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\Content
-WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\lib
-WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\Microsoft.AspNet.WebPages.3.2.7.nupkg
-WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\Content\Web.config.install.xdt
-WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\Content\Web.config.uninstall.xdt
-WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45
-WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.Helpers.dll
-WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.Helpers.xml
-WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.WebPages.Deployment.dll
-WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.WebPages.Deployment.xml
-WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.WebPages.dll
-WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.WebPages.Razor.dll
-WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.WebPages.Razor.xml
-WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.WebPages.xml
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\.signature.p7s
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1.nupkg
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net45
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content\net45
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content\net46
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content\net45\app.config.install.xdt
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content\net45\app.config.uninstall.xdt
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content\net45\web.config.install.xdt
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content\net45\web.config.uninstall.xdt
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content\net46\app.config.install.xdt
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content\net46\app.config.uninstall.xdt
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content\net46\web.config.install.xdt
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content\net46\web.config.uninstall.xdt
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\net45
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\net45\install.ps1
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\net45\uninstall.ps1
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\csc.exe
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\csc.exe.config
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\csc.rsp
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\csi.exe
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\csi.rsp
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\Microsoft.Build.Tasks.CodeAnalysis.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\Microsoft.CodeAnalysis.CSharp.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\Microsoft.CodeAnalysis.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\Microsoft.CodeAnalysis.Scripting.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\Microsoft.CodeAnalysis.VisualBasic.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\Microsoft.CSharp.Core.targets
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\Microsoft.DiaSymReader.Native.amd64.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\Microsoft.DiaSymReader.Native.x86.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\Microsoft.VisualBasic.Core.targets
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\System.AppContext.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\System.Collections.Immutable.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\System.Diagnostics.StackTrace.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\System.IO.FileSystem.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\System.IO.FileSystem.Primitives.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\System.Reflection.Metadata.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\vbc.exe
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\vbc.exe.config
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\vbc.rsp
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\VBCSCompiler.exe
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\VBCSCompiler.exe.config
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csc.exe
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csc.exe.config
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csc.rsp
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csi.exe
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csi.exe.config
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csi.rsp
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\Microsoft.Build.Tasks.CodeAnalysis.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\Microsoft.CodeAnalysis.CSharp.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\Microsoft.CodeAnalysis.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\Microsoft.CodeAnalysis.Scripting.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\Microsoft.CodeAnalysis.VisualBasic.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\Microsoft.CSharp.Core.targets
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\Microsoft.DiaSymReader.Native.amd64.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\Microsoft.DiaSymReader.Native.x86.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\Microsoft.Managed.Core.targets
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\Microsoft.VisualBasic.Core.targets
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\Microsoft.Win32.Primitives.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.AppContext.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Collections.Immutable.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Console.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Diagnostics.DiagnosticSource.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Diagnostics.FileVersionInfo.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Diagnostics.StackTrace.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Globalization.Calendars.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.IO.Compression.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.IO.Compression.ZipFile.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.IO.FileSystem.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.IO.FileSystem.Primitives.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Net.Http.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Net.Sockets.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Reflection.Metadata.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Runtime.InteropServices.RuntimeInformation.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Security.Cryptography.Algorithms.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Security.Cryptography.Encoding.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Security.Cryptography.Primitives.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Security.Cryptography.X509Certificates.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Text.Encoding.CodePages.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Threading.Tasks.Extensions.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.ValueTuple.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Xml.ReaderWriter.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Xml.XmlDocument.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Xml.XPath.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Xml.XPath.XDocument.dll
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\vbc.exe
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\vbc.exe.config
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\vbc.rsp
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\VBCSCompiler.exe
-WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\VBCSCompiler.exe.config
-WebAppMVC\packages\Microsoft.jQuery.Unobtrusive.Validation.3.2.11\.signature.p7s
-WebAppMVC\packages\Microsoft.jQuery.Unobtrusive.Validation.3.2.11\Content
-WebAppMVC\packages\Microsoft.jQuery.Unobtrusive.Validation.3.2.11\Microsoft.jQuery.Unobtrusive.Validation.3.2.11.nupkg
-WebAppMVC\packages\Microsoft.jQuery.Unobtrusive.Validation.3.2.11\Content\Scripts
-WebAppMVC\packages\Microsoft.jQuery.Unobtrusive.Validation.3.2.11\Content\Scripts\jquery.validate.unobtrusive.js
-WebAppMVC\packages\Microsoft.jQuery.Unobtrusive.Validation.3.2.11\Content\Scripts\jquery.validate.unobtrusive.min.js
-WebAppMVC\packages\Microsoft.Web.Infrastructure.1.0.0.0\.signature.p7s
-WebAppMVC\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib
-WebAppMVC\packages\Microsoft.Web.Infrastructure.1.0.0.0\Microsoft.Web.Infrastructure.1.0.0.0.nupkg
-WebAppMVC\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40
-WebAppMVC\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll
-WebAppMVC\packages\Modernizr.2.8.3\.signature.p7s
-WebAppMVC\packages\Modernizr.2.8.3\Content
-WebAppMVC\packages\Modernizr.2.8.3\Modernizr.2.8.3.nupkg
-WebAppMVC\packages\Modernizr.2.8.3\Tools
-WebAppMVC\packages\Modernizr.2.8.3\Content\Scripts
-WebAppMVC\packages\Modernizr.2.8.3\Content\Scripts\modernizr-2.8.3.js
-WebAppMVC\packages\Modernizr.2.8.3\Tools\common.ps1
-WebAppMVC\packages\Modernizr.2.8.3\Tools\install.ps1
-WebAppMVC\packages\Modernizr.2.8.3\Tools\uninstall.ps1
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\.signature.p7s
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\LICENSE.md
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\Newtonsoft.Json.12.0.2.nupkg
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net20
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net35
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net40
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net45
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\netstandard1.0
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\netstandard1.3
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\netstandard2.0
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\portable-net40+sl5+win8+wp8+wpa81
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\portable-net45+win8+wp8+wpa81
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net20\Newtonsoft.Json.dll
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net20\Newtonsoft.Json.xml
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net35\Newtonsoft.Json.dll
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net35\Newtonsoft.Json.xml
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net40\Newtonsoft.Json.dll
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net40\Newtonsoft.Json.xml
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.xml
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\netstandard1.0\Newtonsoft.Json.dll
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\netstandard1.0\Newtonsoft.Json.xml
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\netstandard1.3\Newtonsoft.Json.dll
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\netstandard1.3\Newtonsoft.Json.xml
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\netstandard2.0\Newtonsoft.Json.dll
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\netstandard2.0\Newtonsoft.Json.xml
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\portable-net40+sl5+win8+wp8+wpa81\Newtonsoft.Json.dll
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\portable-net40+sl5+win8+wp8+wpa81\Newtonsoft.Json.xml
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\portable-net45+win8+wp8+wpa81\Newtonsoft.Json.dll
-WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\portable-net45+win8+wp8+wpa81\Newtonsoft.Json.xml
-WebAppMVC\packages\WebGrease.1.6.0\.signature.p7s
-WebAppMVC\packages\WebGrease.1.6.0\lib
-WebAppMVC\packages\WebGrease.1.6.0\tools
-WebAppMVC\packages\WebGrease.1.6.0\WebGrease.1.6.0.nupkg
-WebAppMVC\packages\WebGrease.1.6.0\lib\WebGrease.dll
-WebAppMVC\packages\WebGrease.1.6.0\tools\WG.EXE
-WebAppMVC\WebAppMVC\App_Data
-WebAppMVC\WebAppMVC\App_Start
-WebAppMVC\WebAppMVC\bin
-WebAppMVC\WebAppMVC\Content
-WebAppMVC\WebAppMVC\Controllers
-WebAppMVC\WebAppMVC\favicon.ico
-WebAppMVC\WebAppMVC\fonts
-WebAppMVC\WebAppMVC\Global.asax
-WebAppMVC\WebAppMVC\Global.asax.cs
-WebAppMVC\WebAppMVC\Models
-WebAppMVC\WebAppMVC\obj
-WebAppMVC\WebAppMVC\packages.config
-WebAppMVC\WebAppMVC\Properties
-WebAppMVC\WebAppMVC\Scripts
-WebAppMVC\WebAppMVC\Views
-WebAppMVC\WebAppMVC\Web.config
-WebAppMVC\WebAppMVC\Web.Debug.config
-WebAppMVC\WebAppMVC\Web.Release.config
-WebAppMVC\WebAppMVC\WebAppMVC.csproj
-WebAppMVC\WebAppMVC\WebAppMVC.csproj.user
-WebAppMVC\WebAppMVC\App_Start\BundleConfig.cs
-WebAppMVC\WebAppMVC\App_Start\FilterConfig.cs
-WebAppMVC\WebAppMVC\App_Start\RouteConfig.cs
-WebAppMVC\WebAppMVC\bin\Antlr3.Runtime.dll
-WebAppMVC\WebAppMVC\bin\Antlr3.Runtime.pdb
-WebAppMVC\WebAppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-WebAppMVC\WebAppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-WebAppMVC\WebAppMVC\bin\Microsoft.Web.Infrastructure.dll
-WebAppMVC\WebAppMVC\bin\Newtonsoft.Json.dll
-WebAppMVC\WebAppMVC\bin\Newtonsoft.Json.xml
-WebAppMVC\WebAppMVC\bin\roslyn
-WebAppMVC\WebAppMVC\bin\System.Web.Helpers.dll
-WebAppMVC\WebAppMVC\bin\System.Web.Helpers.xml
-WebAppMVC\WebAppMVC\bin\System.Web.Mvc.dll
-WebAppMVC\WebAppMVC\bin\System.Web.Mvc.xml
-WebAppMVC\WebAppMVC\bin\System.Web.Optimization.dll
-WebAppMVC\WebAppMVC\bin\System.Web.Optimization.xml
-WebAppMVC\WebAppMVC\bin\System.Web.Razor.dll
-WebAppMVC\WebAppMVC\bin\System.Web.Razor.xml
-WebAppMVC\WebAppMVC\bin\System.Web.WebPages.Deployment.dll
-WebAppMVC\WebAppMVC\bin\System.Web.WebPages.Deployment.xml
-WebAppMVC\WebAppMVC\bin\System.Web.WebPages.dll
-WebAppMVC\WebAppMVC\bin\System.Web.WebPages.Razor.dll
-WebAppMVC\WebAppMVC\bin\System.Web.WebPages.Razor.xml
-WebAppMVC\WebAppMVC\bin\System.Web.WebPages.xml
-WebAppMVC\WebAppMVC\bin\WebAppMVC.dll
-WebAppMVC\WebAppMVC\bin\WebAppMVC.dll.config
-WebAppMVC\WebAppMVC\bin\WebAppMVC.pdb
-WebAppMVC\WebAppMVC\bin\WebGrease.dll
-WebAppMVC\WebAppMVC\bin\roslyn\csc.exe
-WebAppMVC\WebAppMVC\bin\roslyn\csc.exe.config
-WebAppMVC\WebAppMVC\bin\roslyn\csc.rsp
-WebAppMVC\WebAppMVC\bin\roslyn\csi.exe
-WebAppMVC\WebAppMVC\bin\roslyn\csi.exe.config
-WebAppMVC\WebAppMVC\bin\roslyn\csi.rsp
-WebAppMVC\WebAppMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-WebAppMVC\WebAppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-WebAppMVC\WebAppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-WebAppMVC\WebAppMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
-WebAppMVC\WebAppMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-WebAppMVC\WebAppMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-WebAppMVC\WebAppMVC\bin\roslyn\Microsoft.CSharp.Core.targets
-WebAppMVC\WebAppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-WebAppMVC\WebAppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-WebAppMVC\WebAppMVC\bin\roslyn\Microsoft.Managed.Core.targets
-WebAppMVC\WebAppMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
-WebAppMVC\WebAppMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.AppContext.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.Collections.Immutable.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.Console.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.Globalization.Calendars.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.IO.Compression.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.IO.FileSystem.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.Net.Http.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.Net.Sockets.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.Reflection.Metadata.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.ValueTuple.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.Xml.ReaderWriter.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.Xml.XmlDocument.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.Xml.XPath.dll
-WebAppMVC\WebAppMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
-WebAppMVC\WebAppMVC\bin\roslyn\vbc.exe
-WebAppMVC\WebAppMVC\bin\roslyn\vbc.exe.config
-WebAppMVC\WebAppMVC\bin\roslyn\vbc.rsp
-WebAppMVC\WebAppMVC\bin\roslyn\VBCSCompiler.exe
-WebAppMVC\WebAppMVC\bin\roslyn\VBCSCompiler.exe.config
-WebAppMVC\WebAppMVC\Content\bootstrap-theme.css
-WebAppMVC\WebAppMVC\Content\bootstrap-theme.css.map
-WebAppMVC\WebAppMVC\Content\bootstrap-theme.min.css
-WebAppMVC\WebAppMVC\Content\bootstrap-theme.min.css.map
-WebAppMVC\WebAppMVC\Content\bootstrap.css
-WebAppMVC\WebAppMVC\Content\bootstrap.css.map
-WebAppMVC\WebAppMVC\Content\bootstrap.min.css
-WebAppMVC\WebAppMVC\Content\bootstrap.min.css.map
-WebAppMVC\WebAppMVC\Content\Site.css
-WebAppMVC\WebAppMVC\Controllers\HomeController.cs
-WebAppMVC\WebAppMVC\fonts\glyphicons-halflings-regular.eot
-WebAppMVC\WebAppMVC\fonts\glyphicons-halflings-regular.svg
-WebAppMVC\WebAppMVC\fonts\glyphicons-halflings-regular.ttf
-WebAppMVC\WebAppMVC\fonts\glyphicons-halflings-regular.woff
-WebAppMVC\WebAppMVC\fonts\glyphicons-halflings-regular.woff2
-WebAppMVC\WebAppMVC\obj\Debug
-WebAppMVC\WebAppMVC\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
-WebAppMVC\WebAppMVC\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-WebAppMVC\WebAppMVC\obj\Debug\TempPE
-WebAppMVC\WebAppMVC\obj\Debug\WebAppMVC.csproj.AssemblyReference.cache
-WebAppMVC\WebAppMVC\obj\Debug\WebAppMVC.csproj.CopyComplete
-WebAppMVC\WebAppMVC\obj\Debug\WebAppMVC.csproj.CoreCompileInputs.cache
-WebAppMVC\WebAppMVC\obj\Debug\WebAppMVC.csproj.FileListAbsolute.txt
-WebAppMVC\WebAppMVC\obj\Debug\WebAppMVC.dll
-WebAppMVC\WebAppMVC\obj\Debug\WebAppMVC.pdb
-WebAppMVC\WebAppMVC\Properties\AssemblyInfo.cs
-WebAppMVC\WebAppMVC\Scripts\bootstrap.js
-WebAppMVC\WebAppMVC\Scripts\bootstrap.min.js
-WebAppMVC\WebAppMVC\Scripts\jquery-3.4.1.intellisense.js
-WebAppMVC\WebAppMVC\Scripts\jquery-3.4.1.js
-WebAppMVC\WebAppMVC\Scripts\jquery-3.4.1.min.js
-WebAppMVC\WebAppMVC\Scripts\jquery-3.4.1.min.map
-WebAppMVC\WebAppMVC\Scripts\jquery-3.4.1.slim.js
-WebAppMVC\WebAppMVC\Scripts\jquery-3.4.1.slim.min.js
-WebAppMVC\WebAppMVC\Scripts\jquery-3.4.1.slim.min.map
-WebAppMVC\WebAppMVC\Scripts\jquery.validate-vsdoc.js
-WebAppMVC\WebAppMVC\Scripts\jquery.validate.js
-WebAppMVC\WebAppMVC\Scripts\jquery.validate.min.js
-WebAppMVC\WebAppMVC\Scripts\jquery.validate.unobtrusive.js
-WebAppMVC\WebAppMVC\Scripts\jquery.validate.unobtrusive.min.js
-WebAppMVC\WebAppMVC\Scripts\modernizr-2.8.3.js
-WebAppMVC\WebAppMVC\Views\Home
-WebAppMVC\WebAppMVC\Views\Shared
-WebAppMVC\WebAppMVC\Views\Web.config
-WebAppMVC\WebAppMVC\Views\_ViewStart.cshtml
-WebAppMVC\WebAppMVC\Views\Home\About.cshtml
-WebAppMVC\WebAppMVC\Views\Home\Contact.cshtml
-WebAppMVC\WebAppMVC\Views\Home\Index.cshtml
-WebAppMVC\WebAppMVC\Views\Shared\Error.cshtml
-WebAppMVC\WebAppMVC\Views\Shared\_Layout.cshtml
+ Volume in drive D is Local Disk 
+ Volume Serial Number is 9CF6-94DD
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC
+
+04/03/2023  11:36 AM    <DIR>          .
+04/03/2023  11:36 AM    <DIR>          ..
+03/30/2023  10:14 AM                 0 .Net Framework 4.7.2.txt
+03/30/2023  09:11 AM            70,707 About.JPG
+03/30/2023  09:11 AM            74,853 Contact.JPG
+03/30/2023  09:10 AM           114,003 MainPage.JPG
+04/03/2023  11:32 AM               148 New Text Document.bat
+03/30/2023  08:55 AM    <DIR>          packages
+03/30/2023  08:55 AM    <DIR>          WebAppMVC
+03/30/2023  08:55 AM             1,133 WebAppMVC.sln
+04/03/2023  11:36 AM                 0 z.txt
+               7 File(s)        260,844 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\.vs
+
+03/30/2023  08:55 AM    <DIR>          WebAppMVC
+               0 File(s)              0 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\.vs\WebAppMVC
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM    <DIR>          config
+03/30/2023  08:55 AM    <DIR>          v16
+               0 File(s)              0 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\.vs\WebAppMVC\config
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM            77,131 applicationhost.config
+               1 File(s)         77,131 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\.vs\WebAppMVC\v16
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM    <DIR>          Antlr.3.5.0.2
+03/30/2023  08:55 AM    <DIR>          bootstrap.3.4.1
+03/30/2023  08:55 AM    <DIR>          jQuery.3.4.1
+03/30/2023  08:55 AM    <DIR>          jQuery.Validation.1.17.0
+03/30/2023  08:55 AM    <DIR>          Microsoft.AspNet.Mvc.5.2.7
+03/30/2023  08:55 AM    <DIR>          Microsoft.AspNet.Razor.3.2.7
+03/30/2023  08:55 AM    <DIR>          Microsoft.AspNet.Web.Optimization.1.1.3
+03/30/2023  08:55 AM    <DIR>          Microsoft.AspNet.WebPages.3.2.7
+03/30/2023  08:55 AM    <DIR>          Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
+03/30/2023  08:55 AM    <DIR>          Microsoft.jQuery.Unobtrusive.Validation.3.2.11
+03/30/2023  08:55 AM    <DIR>          Microsoft.Web.Infrastructure.1.0.0.0
+03/30/2023  08:55 AM    <DIR>          Modernizr.2.8.3
+03/30/2023  08:55 AM    <DIR>          Newtonsoft.Json.12.0.2
+03/30/2023  08:55 AM    <DIR>          WebGrease.1.6.0
+               0 File(s)              0 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Antlr.3.5.0.2
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+10/14/2018  09:05 PM             9,472 .signature.p7s
+03/30/2023  08:55 AM           156,224 Antlr.3.5.0.2.nupkg
+03/30/2023  08:55 AM    <DIR>          lib
+               2 File(s)        165,696 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Antlr.3.5.0.2\lib
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+09/10/2013  04:29 PM           103,424 Antlr3.Runtime.dll
+09/10/2013  04:29 PM           435,712 Antlr3.Runtime.pdb
+               2 File(s)        539,136 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+02/13/2019  01:32 PM             9,473 .signature.p7s
+03/30/2023  08:55 AM           759,099 bootstrap.3.4.1.nupkg
+03/30/2023  08:55 AM    <DIR>          content
+03/30/2023  08:55 AM    <DIR>          contentFiles
+02/13/2019  08:54 PM             1,106 LICENSE.txt
+               3 File(s)        769,678 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\content
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM    <DIR>          Content
+03/30/2023  08:55 AM    <DIR>          fonts
+03/30/2023  08:55 AM    <DIR>          Scripts
+               0 File(s)              0 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\content\Content
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+02/13/2019  08:54 PM            25,682 bootstrap-theme.css
+02/13/2019  08:54 PM            48,005 bootstrap-theme.css.map
+02/13/2019  08:54 PM            23,411 bootstrap-theme.min.css
+02/13/2019  08:54 PM            75,600 bootstrap-theme.min.css.map
+02/13/2019  08:54 PM           145,933 bootstrap.css
+02/13/2019  08:54 PM           390,887 bootstrap.css.map
+02/13/2019  08:54 PM           121,457 bootstrap.min.css
+02/13/2019  08:54 PM           540,434 bootstrap.min.css.map
+               8 File(s)      1,371,409 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\content\fonts
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+02/13/2019  08:54 PM            20,127 glyphicons-halflings-regular.eot
+02/13/2019  08:54 PM           108,738 glyphicons-halflings-regular.svg
+02/13/2019  08:54 PM            45,404 glyphicons-halflings-regular.ttf
+02/13/2019  08:54 PM            23,424 glyphicons-halflings-regular.woff
+02/13/2019  08:54 PM            18,028 glyphicons-halflings-regular.woff2
+               5 File(s)        215,721 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\content\Scripts
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+02/13/2019  08:54 PM            75,484 bootstrap.js
+02/13/2019  08:54 PM            39,680 bootstrap.min.js
+               2 File(s)        115,164 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\contentFiles
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM    <DIR>          Content
+03/30/2023  08:55 AM    <DIR>          fonts
+03/30/2023  08:55 AM    <DIR>          Scripts
+               0 File(s)              0 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Content
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+02/13/2019  08:54 PM            25,682 bootstrap-theme.css
+02/13/2019  08:54 PM            48,005 bootstrap-theme.css.map
+02/13/2019  08:54 PM            23,411 bootstrap-theme.min.css
+02/13/2019  08:54 PM            75,600 bootstrap-theme.min.css.map
+02/13/2019  08:54 PM           145,933 bootstrap.css
+02/13/2019  08:54 PM           390,887 bootstrap.css.map
+02/13/2019  08:54 PM           121,457 bootstrap.min.css
+02/13/2019  08:54 PM           540,434 bootstrap.min.css.map
+               8 File(s)      1,371,409 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\contentFiles\fonts
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+02/13/2019  08:54 PM            20,127 glyphicons-halflings-regular.eot
+02/13/2019  08:54 PM           108,738 glyphicons-halflings-regular.svg
+02/13/2019  08:54 PM            45,404 glyphicons-halflings-regular.ttf
+02/13/2019  08:54 PM            23,424 glyphicons-halflings-regular.woff
+02/13/2019  08:54 PM            18,028 glyphicons-halflings-regular.woff2
+               5 File(s)        215,721 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Scripts
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+02/13/2019  08:54 PM            75,484 bootstrap.js
+02/13/2019  08:54 PM            39,680 bootstrap.min.js
+               2 File(s)        115,164 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.3.4.1
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+05/02/2019  11:18 AM             9,467 .signature.p7s
+03/30/2023  08:55 AM    <DIR>          Content
+03/30/2023  08:55 AM           383,985 jQuery.3.4.1.nupkg
+03/30/2023  08:55 AM    <DIR>          Tools
+               2 File(s)        393,452 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.3.4.1\Content
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM    <DIR>          Scripts
+               0 File(s)              0 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.3.4.1\Content\Scripts
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+05/02/2019  11:15 AM           254,827 jquery-3.4.1-vsdoc.js
+05/02/2019  11:15 AM           280,364 jquery-3.4.1.js
+05/02/2019  11:15 AM            88,145 jquery-3.4.1.min.js
+05/02/2019  11:15 AM           136,409 jquery-3.4.1.min.map
+05/02/2019  11:15 AM           227,022 jquery-3.4.1.slim.js
+05/02/2019  11:15 AM            71,037 jquery-3.4.1.slim.min.js
+05/02/2019  11:15 AM           108,769 jquery-3.4.1.slim.min.map
+               7 File(s)      1,166,573 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.3.4.1\Tools
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+05/02/2019  11:15 AM             4,013 common.ps1
+05/02/2019  11:15 AM             1,332 install.ps1
+05/02/2019  11:15 AM           162,316 jquery-3.4.1.intellisense.js
+05/02/2019  11:15 AM             1,546 uninstall.ps1
+               4 File(s)        169,207 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.Validation.1.17.0
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+10/14/2018  09:01 PM             9,466 .signature.p7s
+03/30/2023  08:55 AM    <DIR>          Content
+03/30/2023  08:55 AM            45,889 jQuery.Validation.1.17.0.nupkg
+               2 File(s)         55,355 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.Validation.1.17.0\Content
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM    <DIR>          Scripts
+               0 File(s)              0 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.Validation.1.17.0\Content\Scripts
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+01/25/2018  12:30 PM            43,876 jquery.validate-vsdoc.js
+01/25/2018  12:30 PM            48,696 jquery.validate.js
+01/25/2018  12:30 PM            23,261 jquery.validate.min.js
+               3 File(s)        115,833 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Mvc.5.2.7
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+11/28/2018  04:07 PM            18,694 .signature.p7s
+03/30/2023  08:55 AM    <DIR>          Content
+03/30/2023  08:55 AM    <DIR>          lib
+03/30/2023  08:55 AM           311,884 Microsoft.AspNet.Mvc.5.2.7.nupkg
+               2 File(s)        330,578 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Mvc.5.2.7\Content
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+11/28/2018  12:59 PM             1,357 Web.config.install.xdt
+11/28/2018  12:59 PM               413 Web.config.uninstall.xdt
+               2 File(s)          1,770 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Mvc.5.2.7\lib
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM    <DIR>          net45
+               0 File(s)              0 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Mvc.5.2.7\lib\net45
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+11/28/2018  12:59 PM           548,280 System.Web.Mvc.dll
+11/28/2018  12:59 PM           952,428 System.Web.Mvc.xml
+               2 File(s)      1,500,708 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Razor.3.2.7
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+11/28/2018  04:08 PM            18,695 .signature.p7s
+03/30/2023  08:55 AM    <DIR>          lib
+03/30/2023  08:55 AM           165,348 Microsoft.AspNet.Razor.3.2.7.nupkg
+               2 File(s)        184,043 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Razor.3.2.7\lib
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM    <DIR>          net45
+               0 File(s)              0 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Razor.3.2.7\lib\net45
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+11/28/2018  01:00 PM           263,608 System.Web.Razor.dll
+11/28/2018  01:00 PM           522,146 System.Web.Razor.xml
+               2 File(s)        785,754 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Web.Optimization.1.1.3
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+12/17/2018  03:17 PM             9,474 .signature.p7s
+03/30/2023  08:55 AM    <DIR>          lib
+03/30/2023  08:55 AM            52,874 Microsoft.AspNet.Web.Optimization.1.1.3.nupkg
+               2 File(s)         62,348 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM    <DIR>          net40
+               0 File(s)              0 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+02/11/2014  03:26 PM            70,864 System.Web.Optimization.dll
+02/11/2014  03:26 PM            50,585 system.web.optimization.xml
+               2 File(s)        121,449 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+11/28/2018  08:13 PM            18,694 .signature.p7s
+03/30/2023  08:55 AM    <DIR>          Content
+03/30/2023  08:55 AM    <DIR>          lib
+03/30/2023  08:55 AM           246,490 Microsoft.AspNet.WebPages.3.2.7.nupkg
+               2 File(s)        265,184 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\Content
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+11/28/2018  01:04 PM             1,792 Web.config.install.xdt
+11/28/2018  01:04 PM               597 Web.config.uninstall.xdt
+               2 File(s)          2,389 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\lib
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM    <DIR>          net45
+               0 File(s)              0 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+11/28/2018  01:04 PM           137,144 System.Web.Helpers.dll
+11/28/2018  01:04 PM            74,850 System.Web.Helpers.xml
+11/28/2018  01:04 PM            43,128 System.Web.WebPages.Deployment.dll
+11/28/2018  01:04 PM             4,867 System.Web.WebPages.Deployment.xml
+11/28/2018  01:04 PM           206,456 System.Web.WebPages.dll
+11/28/2018  01:04 PM            40,888 System.Web.WebPages.Razor.dll
+11/28/2018  01:04 PM            25,222 System.Web.WebPages.Razor.xml
+11/28/2018  01:04 PM           234,716 System.Web.WebPages.xml
+               8 File(s)        767,271 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+12/17/2018  04:01 PM            22,345 .signature.p7s
+03/30/2023  08:55 AM    <DIR>          build
+03/30/2023  08:55 AM    <DIR>          content
+03/30/2023  08:55 AM    <DIR>          lib
+03/30/2023  08:55 AM        13,709,859 Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1.nupkg
+03/30/2023  08:55 AM    <DIR>          tools
+               2 File(s)     13,732,204 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM    <DIR>          net45
+03/30/2023  08:55 AM    <DIR>          net46
+               0 File(s)              0 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net45
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+09/05/2018  04:04 PM               271 Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props
+09/05/2018  04:04 PM             5,753 Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props
+               2 File(s)          6,024 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+09/05/2018  04:04 PM               275 Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props
+09/05/2018  04:04 PM             5,753 Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props
+               2 File(s)          6,028 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM    <DIR>          net45
+03/30/2023  08:55 AM    <DIR>          net46
+               0 File(s)              0 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content\net45
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+09/05/2018  04:04 PM             2,421 app.config.install.xdt
+09/05/2018  04:04 PM               994 app.config.uninstall.xdt
+09/05/2018  04:04 PM             2,131 web.config.install.xdt
+09/05/2018  04:04 PM               742 web.config.uninstall.xdt
+               4 File(s)          6,288 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content\net46
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+09/05/2018  04:04 PM             2,432 app.config.install.xdt
+09/05/2018  04:04 PM               994 app.config.uninstall.xdt
+09/05/2018  04:04 PM             2,142 web.config.install.xdt
+09/05/2018  04:04 PM               742 web.config.uninstall.xdt
+               4 File(s)          6,310 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM    <DIR>          net45
+               0 File(s)              0 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+09/05/2018  04:10 PM            40,168 Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+09/05/2018  04:05 PM             3,187 Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+               2 File(s)         43,355 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM    <DIR>          net45
+03/30/2023  08:55 AM    <DIR>          Roslyn45
+03/30/2023  08:55 AM    <DIR>          RoslynLatest
+               0 File(s)              0 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\net45
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+09/05/2018  04:15 PM            16,072 install.ps1
+09/05/2018  04:13 PM            13,928 uninstall.ps1
+               2 File(s)         30,000 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+06/27/2016  09:50 PM            50,032 csc.exe
+06/27/2016  09:50 PM             1,711 csc.exe.config
+06/27/2016  09:50 PM             1,496 csc.rsp
+06/27/2016  09:50 PM            13,680 csi.exe
+06/27/2016  09:50 PM               253 csi.rsp
+06/27/2016  09:50 PM           105,392 Microsoft.Build.Tasks.CodeAnalysis.dll
+06/27/2016  09:50 PM         4,211,112 Microsoft.CodeAnalysis.CSharp.dll
+06/27/2016  09:50 PM            28,088 Microsoft.CodeAnalysis.CSharp.Scripting.dll
+06/27/2016  09:50 PM         2,049,432 Microsoft.CodeAnalysis.dll
+06/27/2016  09:50 PM           128,432 Microsoft.CodeAnalysis.Scripting.dll
+06/27/2016  09:50 PM         5,061,040 Microsoft.CodeAnalysis.VisualBasic.dll
+06/27/2016  09:50 PM             6,908 Microsoft.CSharp.Core.targets
+06/27/2016  09:50 PM         1,264,912 Microsoft.DiaSymReader.Native.amd64.dll
+06/27/2016  09:50 PM           967,432 Microsoft.DiaSymReader.Native.x86.dll
+06/27/2016  09:50 PM             6,340 Microsoft.VisualBasic.Core.targets
+06/27/2016  09:50 PM            20,168 System.AppContext.dll
+06/27/2016  09:50 PM           200,440 System.Collections.Immutable.dll
+06/27/2016  09:50 PM            22,776 System.Diagnostics.StackTrace.dll
+06/27/2016  09:50 PM            20,696 System.IO.FileSystem.dll
+06/27/2016  09:50 PM            20,736 System.IO.FileSystem.Primitives.dll
+06/27/2016  09:50 PM           425,864 System.Reflection.Metadata.dll
+06/27/2016  09:50 PM            50,032 vbc.exe
+06/27/2016  09:50 PM             1,711 vbc.exe.config
+06/27/2016  09:50 PM             1,634 vbc.rsp
+06/27/2016  09:50 PM            85,896 VBCSCompiler.exe
+06/27/2016  09:50 PM             1,927 VBCSCompiler.exe.config
+              26 File(s)     14,748,140 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+08/08/2018  05:38 AM            49,584 csc.exe
+08/08/2018  12:18 PM             7,880 csc.exe.config
+08/08/2018  12:09 PM             1,496 csc.rsp
+08/08/2018  05:38 AM            15,272 csi.exe
+08/08/2018  12:18 PM             8,476 csi.exe.config
+08/08/2018  12:09 PM               279 csi.rsp
+08/08/2018  05:38 AM           122,288 Microsoft.Build.Tasks.CodeAnalysis.dll
+08/08/2018  05:38 AM         4,896,176 Microsoft.CodeAnalysis.CSharp.dll
+08/08/2018  05:38 AM            28,592 Microsoft.CodeAnalysis.CSharp.Scripting.dll
+08/08/2018  05:38 AM         2,721,712 Microsoft.CodeAnalysis.dll
+08/08/2018  05:38 AM           127,920 Microsoft.CodeAnalysis.Scripting.dll
+08/08/2018  05:38 AM         5,425,584 Microsoft.CodeAnalysis.VisualBasic.dll
+08/08/2018  12:09 PM             6,818 Microsoft.CSharp.Core.targets
+12/05/2017  09:36 AM         1,495,800 Microsoft.DiaSymReader.Native.amd64.dll
+12/05/2017  09:36 AM         1,188,080 Microsoft.DiaSymReader.Native.x86.dll
+08/08/2018  12:09 PM             7,517 Microsoft.Managed.Core.targets
+08/08/2018  12:09 PM             6,236 Microsoft.VisualBasic.Core.targets
+11/05/2016  06:55 PM            22,768 Microsoft.Win32.Primitives.dll
+11/05/2016  06:55 PM            20,168 System.AppContext.dll
+05/16/2018  03:29 AM           358,536 System.Collections.Immutable.dll
+11/05/2016  06:55 PM            34,496 System.Console.dll
+11/05/2016  06:55 PM            35,760 System.Diagnostics.DiagnosticSource.dll
+11/05/2016  06:55 PM            23,464 System.Diagnostics.FileVersionInfo.dll
+11/05/2016  06:55 PM            23,288 System.Diagnostics.StackTrace.dll
+11/05/2016  06:56 PM            23,296 System.Globalization.Calendars.dll
+11/05/2016  06:56 PM           111,984 System.IO.Compression.dll
+11/05/2016  06:56 PM            24,824 System.IO.Compression.ZipFile.dll
+11/05/2016  06:56 PM            22,736 System.IO.FileSystem.dll
+11/05/2016  06:56 PM            22,784 System.IO.FileSystem.Primitives.dll
+11/05/2016  06:56 PM           265,048 System.Net.Http.dll
+11/05/2016  06:56 PM            46,280 System.Net.Sockets.dll
+05/16/2018  03:29 AM           584,848 System.Reflection.Metadata.dll
+11/05/2016  06:57 PM            33,256 System.Runtime.InteropServices.RuntimeInformation.dll
+11/05/2016  06:57 PM            39,872 System.Security.Cryptography.Algorithms.dll
+11/05/2016  06:57 PM            23,480 System.Security.Cryptography.Encoding.dll
+11/05/2016  06:57 PM            22,816 System.Security.Cryptography.Primitives.dll
+11/05/2016  06:57 PM            38,872 System.Security.Cryptography.X509Certificates.dll
+11/05/2016  06:57 PM           766,872 System.Text.Encoding.CodePages.dll
+11/05/2016  06:57 PM            25,864 System.Threading.Tasks.Extensions.dll
+11/05/2016  06:57 PM            77,672 System.ValueTuple.dll
+11/05/2016  06:57 PM            23,264 System.Xml.ReaderWriter.dll
+11/05/2016  06:57 PM            23,256 System.Xml.XmlDocument.dll
+11/05/2016  06:57 PM            22,720 System.Xml.XPath.dll
+11/05/2016  06:57 PM            25,320 System.Xml.XPath.XDocument.dll
+08/08/2018  05:38 AM            49,584 vbc.exe
+08/08/2018  12:18 PM             7,880 vbc.exe.config
+08/08/2018  12:09 PM             1,634 vbc.rsp
+08/08/2018  05:38 AM            87,472 VBCSCompiler.exe
+08/08/2018  12:18 PM             8,097 VBCSCompiler.exe.config
+              49 File(s)     19,007,921 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.jQuery.Unobtrusive.Validation.3.2.11
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+10/05/2018  03:14 PM            18,694 .signature.p7s
+03/30/2023  08:55 AM    <DIR>          Content
+03/30/2023  08:55 AM            28,126 Microsoft.jQuery.Unobtrusive.Validation.3.2.11.nupkg
+               2 File(s)         46,820 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.jQuery.Unobtrusive.Validation.3.2.11\Content
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM    <DIR>          Scripts
+               0 File(s)              0 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.jQuery.Unobtrusive.Validation.3.2.11\Content\Scripts
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+10/05/2018  02:23 PM            19,366 jquery.validate.unobtrusive.js
+10/05/2018  02:23 PM             5,871 jquery.validate.unobtrusive.min.js
+               2 File(s)         25,237 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.Web.Infrastructure.1.0.0.0
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+12/13/2018  06:30 PM             9,474 .signature.p7s
+03/30/2023  08:55 AM    <DIR>          lib
+03/30/2023  08:55 AM            34,499 Microsoft.Web.Infrastructure.1.0.0.0.nupkg
+               2 File(s)         43,973 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM    <DIR>          net40
+               0 File(s)              0 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+07/25/2012  11:48 AM            45,416 Microsoft.Web.Infrastructure.dll
+               1 File(s)         45,416 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Modernizr.2.8.3
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+10/14/2018  09:04 PM             9,466 .signature.p7s
+03/30/2023  08:55 AM    <DIR>          Content
+03/30/2023  08:55 AM            30,599 Modernizr.2.8.3.nupkg
+03/30/2023  08:55 AM    <DIR>          Tools
+               2 File(s)         40,065 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Modernizr.2.8.3\Content
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM    <DIR>          Scripts
+               0 File(s)              0 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Modernizr.2.8.3\Content\Scripts
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+08/19/2014  09:50 PM            51,351 modernizr-2.8.3.js
+               1 File(s)         51,351 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Modernizr.2.8.3\Tools
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+08/19/2014  09:50 PM             2,997 common.ps1
+08/19/2014  09:50 PM               344 install.ps1
+08/19/2014  09:50 PM               194 uninstall.ps1
+               3 File(s)          3,535 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+04/21/2019  06:23 PM            18,498 .signature.p7s
+03/30/2023  08:55 AM    <DIR>          lib
+04/22/2019  12:53 AM             1,104 LICENSE.md
+03/30/2023  08:55 AM         2,521,025 Newtonsoft.Json.12.0.2.nupkg
+               3 File(s)      2,540,627 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM    <DIR>          net20
+03/30/2023  08:55 AM    <DIR>          net35
+03/30/2023  08:55 AM    <DIR>          net40
+03/30/2023  08:55 AM    <DIR>          net45
+03/30/2023  08:55 AM    <DIR>          netstandard1.0
+03/30/2023  08:55 AM    <DIR>          netstandard1.3
+03/30/2023  08:55 AM    <DIR>          netstandard2.0
+03/30/2023  08:55 AM    <DIR>          portable-net40+sl5+win8+wp8+wpa81
+03/30/2023  08:55 AM    <DIR>          portable-net45+win8+wp8+wpa81
+               0 File(s)              0 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net20
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+04/22/2019  01:06 AM           553,896 Newtonsoft.Json.dll
+04/22/2019  12:57 AM           598,643 Newtonsoft.Json.xml
+               2 File(s)      1,152,539 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net35
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+04/22/2019  01:06 AM           488,360 Newtonsoft.Json.dll
+04/22/2019  12:57 AM           543,762 Newtonsoft.Json.xml
+               2 File(s)      1,032,122 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net40
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+04/22/2019  01:06 AM           554,408 Newtonsoft.Json.dll
+04/22/2019  12:57 AM           555,681 Newtonsoft.Json.xml
+               2 File(s)      1,110,089 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net45
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+04/22/2019  01:06 AM           675,752 Newtonsoft.Json.dll
+04/22/2019  12:57 AM           701,978 Newtonsoft.Json.xml
+               2 File(s)      1,377,730 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\netstandard1.0
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+04/22/2019  01:06 AM           645,544 Newtonsoft.Json.dll
+04/22/2019  12:57 AM           680,623 Newtonsoft.Json.xml
+               2 File(s)      1,326,167 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\netstandard1.3
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+04/22/2019  01:06 AM           663,976 Newtonsoft.Json.dll
+04/22/2019  12:57 AM           688,829 Newtonsoft.Json.xml
+               2 File(s)      1,352,805 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\netstandard2.0
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+04/22/2019  01:06 AM           669,608 Newtonsoft.Json.dll
+04/22/2019  12:57 AM           700,690 Newtonsoft.Json.xml
+               2 File(s)      1,370,298 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\portable-net40+sl5+win8+wp8+wpa81
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+04/22/2019  01:06 AM           453,032 Newtonsoft.Json.dll
+04/22/2019  12:57 AM           513,671 Newtonsoft.Json.xml
+               2 File(s)        966,703 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\portable-net45+win8+wp8+wpa81
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+04/22/2019  01:06 AM           645,032 Newtonsoft.Json.dll
+04/22/2019  12:57 AM           680,623 Newtonsoft.Json.xml
+               2 File(s)      1,325,655 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\WebGrease.1.6.0
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+12/13/2018  01:58 PM             9,482 .signature.p7s
+03/30/2023  08:55 AM    <DIR>          lib
+03/30/2023  08:55 AM    <DIR>          tools
+03/30/2023  08:55 AM           474,536 WebGrease.1.6.0.nupkg
+               2 File(s)        484,018 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\WebGrease.1.6.0\lib
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+01/23/2014  01:57 PM         1,274,520 WebGrease.dll
+               1 File(s)      1,274,520 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\WebGrease.1.6.0\tools
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+01/23/2014  01:57 PM            28,304 WG.EXE
+               1 File(s)         28,304 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM    <DIR>          App_Data
+03/30/2023  08:55 AM    <DIR>          App_Start
+03/30/2023  09:07 AM    <DIR>          bin
+03/30/2023  08:55 AM    <DIR>          Content
+03/30/2023  08:55 AM    <DIR>          Controllers
+03/30/2023  08:55 AM            32,038 favicon.ico
+03/30/2023  08:55 AM    <DIR>          fonts
+03/30/2023  08:55 AM               101 Global.asax
+03/30/2023  08:55 AM               591 Global.asax.cs
+03/30/2023  08:55 AM    <DIR>          Models
+03/30/2023  08:55 AM    <DIR>          obj
+03/30/2023  08:55 AM             1,228 packages.config
+03/30/2023  08:55 AM    <DIR>          Properties
+03/30/2023  08:55 AM    <DIR>          Scripts
+03/30/2023  08:55 AM    <DIR>          Views
+03/30/2023  08:55 AM             3,090 Web.config
+03/30/2023  08:55 AM             1,272 Web.Debug.config
+03/30/2023  08:55 AM             1,333 Web.Release.config
+03/30/2023  08:55 AM            12,233 WebAppMVC.csproj
+03/30/2023  08:55 AM             1,484 WebAppMVC.csproj.user
+               9 File(s)         53,370 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\App_Data
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\App_Start
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM             1,226 BundleConfig.cs
+03/30/2023  08:55 AM               277 FilterConfig.cs
+03/30/2023  08:55 AM               602 RouteConfig.cs
+               3 File(s)          2,105 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin
+
+03/30/2023  09:07 AM    <DIR>          .
+03/30/2023  09:07 AM    <DIR>          ..
+09/10/2013  04:29 PM           103,424 Antlr3.Runtime.dll
+09/10/2013  04:29 PM           435,712 Antlr3.Runtime.pdb
+09/05/2018  04:10 PM            40,168 Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+09/05/2018  04:05 PM             3,187 Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+07/25/2012  11:48 AM            45,416 Microsoft.Web.Infrastructure.dll
+04/22/2019  01:06 AM           675,752 Newtonsoft.Json.dll
+04/22/2019  12:57 AM           701,978 Newtonsoft.Json.xml
+03/30/2023  09:07 AM    <DIR>          roslyn
+11/28/2018  01:04 PM           137,144 System.Web.Helpers.dll
+11/28/2018  01:04 PM            74,850 System.Web.Helpers.xml
+11/28/2018  12:59 PM           548,280 System.Web.Mvc.dll
+11/28/2018  12:59 PM           952,428 System.Web.Mvc.xml
+02/11/2014  03:26 PM            70,864 System.Web.Optimization.dll
+02/11/2014  03:26 PM            50,585 System.Web.Optimization.xml
+11/28/2018  01:00 PM           263,608 System.Web.Razor.dll
+11/28/2018  01:00 PM           522,146 System.Web.Razor.xml
+11/28/2018  01:04 PM            43,128 System.Web.WebPages.Deployment.dll
+11/28/2018  01:04 PM             4,867 System.Web.WebPages.Deployment.xml
+11/28/2018  01:04 PM           206,456 System.Web.WebPages.dll
+11/28/2018  01:04 PM            40,888 System.Web.WebPages.Razor.dll
+11/28/2018  01:04 PM            25,222 System.Web.WebPages.Razor.xml
+11/28/2018  01:04 PM           234,716 System.Web.WebPages.xml
+03/30/2023  09:07 AM             9,216 WebAppMVC.dll
+03/30/2023  08:55 AM             3,090 WebAppMVC.dll.config
+03/30/2023  09:07 AM            19,968 WebAppMVC.pdb
+01/23/2014  01:57 PM         1,274,520 WebGrease.dll
+              25 File(s)      6,487,613 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn
+
+03/30/2023  09:07 AM    <DIR>          .
+03/30/2023  09:07 AM    <DIR>          ..
+08/08/2018  05:38 AM            49,584 csc.exe
+08/08/2018  12:18 PM             7,880 csc.exe.config
+08/08/2018  12:09 PM             1,496 csc.rsp
+08/08/2018  05:38 AM            15,272 csi.exe
+08/08/2018  12:18 PM             8,476 csi.exe.config
+08/08/2018  12:09 PM               279 csi.rsp
+08/08/2018  05:38 AM           122,288 Microsoft.Build.Tasks.CodeAnalysis.dll
+08/08/2018  05:38 AM         4,896,176 Microsoft.CodeAnalysis.CSharp.dll
+08/08/2018  05:38 AM            28,592 Microsoft.CodeAnalysis.CSharp.Scripting.dll
+08/08/2018  05:38 AM         2,721,712 Microsoft.CodeAnalysis.dll
+08/08/2018  05:38 AM           127,920 Microsoft.CodeAnalysis.Scripting.dll
+08/08/2018  05:38 AM         5,425,584 Microsoft.CodeAnalysis.VisualBasic.dll
+08/08/2018  12:09 PM             6,818 Microsoft.CSharp.Core.targets
+12/05/2017  09:36 AM         1,495,800 Microsoft.DiaSymReader.Native.amd64.dll
+12/05/2017  09:36 AM         1,188,080 Microsoft.DiaSymReader.Native.x86.dll
+08/08/2018  12:09 PM             7,517 Microsoft.Managed.Core.targets
+08/08/2018  12:09 PM             6,236 Microsoft.VisualBasic.Core.targets
+11/05/2016  06:55 PM            22,768 Microsoft.Win32.Primitives.dll
+11/05/2016  06:55 PM            20,168 System.AppContext.dll
+05/16/2018  03:29 AM           358,536 System.Collections.Immutable.dll
+11/05/2016  06:55 PM            34,496 System.Console.dll
+11/05/2016  06:55 PM            35,760 System.Diagnostics.DiagnosticSource.dll
+11/05/2016  06:55 PM            23,464 System.Diagnostics.FileVersionInfo.dll
+11/05/2016  06:55 PM            23,288 System.Diagnostics.StackTrace.dll
+11/05/2016  06:56 PM            23,296 System.Globalization.Calendars.dll
+11/05/2016  06:56 PM           111,984 System.IO.Compression.dll
+11/05/2016  06:56 PM            24,824 System.IO.Compression.ZipFile.dll
+11/05/2016  06:56 PM            22,736 System.IO.FileSystem.dll
+11/05/2016  06:56 PM            22,784 System.IO.FileSystem.Primitives.dll
+11/05/2016  06:56 PM           265,048 System.Net.Http.dll
+11/05/2016  06:56 PM            46,280 System.Net.Sockets.dll
+05/16/2018  03:29 AM           584,848 System.Reflection.Metadata.dll
+11/05/2016  06:57 PM            33,256 System.Runtime.InteropServices.RuntimeInformation.dll
+11/05/2016  06:57 PM            39,872 System.Security.Cryptography.Algorithms.dll
+11/05/2016  06:57 PM            23,480 System.Security.Cryptography.Encoding.dll
+11/05/2016  06:57 PM            22,816 System.Security.Cryptography.Primitives.dll
+11/05/2016  06:57 PM            38,872 System.Security.Cryptography.X509Certificates.dll
+11/05/2016  06:57 PM           766,872 System.Text.Encoding.CodePages.dll
+11/05/2016  06:57 PM            25,864 System.Threading.Tasks.Extensions.dll
+11/05/2016  06:57 PM            77,672 System.ValueTuple.dll
+11/05/2016  06:57 PM            23,264 System.Xml.ReaderWriter.dll
+11/05/2016  06:57 PM            23,256 System.Xml.XmlDocument.dll
+11/05/2016  06:57 PM            22,720 System.Xml.XPath.dll
+11/05/2016  06:57 PM            25,320 System.Xml.XPath.XDocument.dll
+08/08/2018  05:38 AM            49,584 vbc.exe
+08/08/2018  12:18 PM             7,880 vbc.exe.config
+08/08/2018  12:09 PM             1,634 vbc.rsp
+08/08/2018  05:38 AM            87,472 VBCSCompiler.exe
+08/08/2018  12:18 PM             8,097 VBCSCompiler.exe.config
+              49 File(s)     19,007,921 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Content
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM            25,682 bootstrap-theme.css
+03/30/2023  08:55 AM            48,005 bootstrap-theme.css.map
+03/30/2023  08:55 AM            23,411 bootstrap-theme.min.css
+03/30/2023  08:55 AM            75,600 bootstrap-theme.min.css.map
+03/30/2023  08:55 AM           145,933 bootstrap.css
+03/30/2023  08:55 AM           390,887 bootstrap.css.map
+03/30/2023  08:55 AM           121,457 bootstrap.min.css
+03/30/2023  08:55 AM           540,434 bootstrap.min.css.map
+03/30/2023  08:55 AM               537 Site.css
+               9 File(s)      1,371,946 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Controllers
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM               607 HomeController.cs
+               1 File(s)            607 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\fonts
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM            20,127 glyphicons-halflings-regular.eot
+03/30/2023  08:55 AM           108,738 glyphicons-halflings-regular.svg
+03/30/2023  08:55 AM            45,404 glyphicons-halflings-regular.ttf
+03/30/2023  08:55 AM            23,424 glyphicons-halflings-regular.woff
+03/30/2023  08:55 AM            18,028 glyphicons-halflings-regular.woff2
+               5 File(s)        215,721 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Models
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\obj
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  09:07 AM    <DIR>          Debug
+               0 File(s)              0 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\obj\Debug
+
+03/30/2023  09:07 AM    <DIR>          .
+03/30/2023  09:07 AM    <DIR>          ..
+03/30/2023  08:55 AM               214 .NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+03/30/2023  09:07 AM            12,149 DesignTimeResolveAssemblyReferencesInput.cache
+03/30/2023  08:55 AM    <DIR>          TempPE
+03/30/2023  09:07 AM                11 WebAppMVC.csproj.AssemblyReference.cache
+03/30/2023  09:07 AM                 0 WebAppMVC.csproj.CopyComplete
+03/30/2023  09:07 AM                42 WebAppMVC.csproj.CoreCompileInputs.cache
+03/30/2023  09:07 AM             6,756 WebAppMVC.csproj.FileListAbsolute.txt
+03/30/2023  09:07 AM             9,216 WebAppMVC.dll
+03/30/2023  09:07 AM            19,968 WebAppMVC.pdb
+               8 File(s)         48,356 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\obj\Debug\TempPE
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Properties
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM             1,384 AssemblyInfo.cs
+               1 File(s)          1,384 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Scripts
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM            75,484 bootstrap.js
+03/30/2023  08:55 AM            39,680 bootstrap.min.js
+03/30/2023  08:55 AM           162,316 jquery-3.4.1.intellisense.js
+03/30/2023  08:55 AM           280,364 jquery-3.4.1.js
+03/30/2023  08:55 AM            88,145 jquery-3.4.1.min.js
+03/30/2023  08:55 AM           136,409 jquery-3.4.1.min.map
+03/30/2023  08:55 AM           227,022 jquery-3.4.1.slim.js
+03/30/2023  08:55 AM            71,037 jquery-3.4.1.slim.min.js
+03/30/2023  08:55 AM           108,769 jquery-3.4.1.slim.min.map
+03/30/2023  08:55 AM            43,876 jquery.validate-vsdoc.js
+03/30/2023  08:55 AM            48,696 jquery.validate.js
+03/30/2023  08:55 AM            23,261 jquery.validate.min.js
+03/30/2023  08:55 AM            19,366 jquery.validate.unobtrusive.js
+03/30/2023  08:55 AM             5,871 jquery.validate.unobtrusive.min.js
+03/30/2023  08:55 AM            51,351 modernizr-2.8.3.js
+              15 File(s)      1,381,647 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Views
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM    <DIR>          Home
+03/30/2023  08:55 AM    <DIR>          Shared
+03/30/2023  08:55 AM             1,930 Web.config
+03/30/2023  08:55 AM                57 _ViewStart.cshtml
+               2 File(s)          1,987 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Views\Home
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM               152 About.cshtml
+03/30/2023  08:55 AM               457 Contact.cshtml
+03/30/2023  08:55 AM             1,480 Index.cshtml
+               3 File(s)          2,089 bytes
+
+ Directory of D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Views\Shared
+
+03/30/2023  08:55 AM    <DIR>          .
+03/30/2023  08:55 AM    <DIR>          ..
+03/30/2023  08:55 AM               277 Error.cshtml
+03/30/2023  08:55 AM             1,618 _Layout.cshtml
+               2 File(s)          1,895 bytes
+
+     Total Files Listed:
+             352 File(s)    102,899,872 bytes
+             272 Dir(s)  111,036,059,648 bytes free
+---------------------------------------------------------------------------------------------------------
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\.Net Framework 4.7.2.txt
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\About.JPG
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\Contact.JPG
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\MainPage.JPG
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\New Text Document.bat
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC.sln
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\z.txt
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\.vs\WebAppMVC
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\.vs\WebAppMVC\config
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\.vs\WebAppMVC\v16
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\.vs\WebAppMVC\config\applicationhost.config
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Antlr.3.5.0.2
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.3.4.1
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.Validation.1.17.0
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Mvc.5.2.7
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Razor.3.2.7
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Web.Optimization.1.1.3
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.jQuery.Unobtrusive.Validation.3.2.11
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.Web.Infrastructure.1.0.0.0
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Modernizr.2.8.3
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\WebGrease.1.6.0
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Antlr.3.5.0.2\.signature.p7s
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Antlr.3.5.0.2\Antlr.3.5.0.2.nupkg
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Antlr.3.5.0.2\lib
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Antlr.3.5.0.2\lib\Antlr3.Runtime.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Antlr.3.5.0.2\lib\Antlr3.Runtime.pdb
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\.signature.p7s
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\bootstrap.3.4.1.nupkg
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\content
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\contentFiles
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\LICENSE.txt
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\content\Content
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\content\fonts
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\content\Scripts
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\content\Content\bootstrap-theme.css
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\content\Content\bootstrap-theme.css.map
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\content\Content\bootstrap-theme.min.css
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\content\Content\bootstrap-theme.min.css.map
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\content\Content\bootstrap.css
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\content\Content\bootstrap.css.map
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\content\Content\bootstrap.min.css
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\content\Content\bootstrap.min.css.map
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\content\fonts\glyphicons-halflings-regular.eot
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\content\fonts\glyphicons-halflings-regular.svg
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\content\fonts\glyphicons-halflings-regular.ttf
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\content\fonts\glyphicons-halflings-regular.woff
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\content\fonts\glyphicons-halflings-regular.woff2
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\content\Scripts\bootstrap.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\content\Scripts\bootstrap.min.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Content
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\contentFiles\fonts
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Scripts
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Content\bootstrap-theme.css
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Content\bootstrap-theme.css.map
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Content\bootstrap-theme.min.css
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Content\bootstrap-theme.min.css.map
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Content\bootstrap.css
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Content\bootstrap.css.map
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Content\bootstrap.min.css
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Content\bootstrap.min.css.map
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\contentFiles\fonts\glyphicons-halflings-regular.eot
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\contentFiles\fonts\glyphicons-halflings-regular.svg
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\contentFiles\fonts\glyphicons-halflings-regular.ttf
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\contentFiles\fonts\glyphicons-halflings-regular.woff
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\contentFiles\fonts\glyphicons-halflings-regular.woff2
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Scripts\bootstrap.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\bootstrap.3.4.1\contentFiles\Scripts\bootstrap.min.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.3.4.1\.signature.p7s
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.3.4.1\Content
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.3.4.1\jQuery.3.4.1.nupkg
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.3.4.1\Tools
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.3.4.1\Content\Scripts
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.3.4.1\Content\Scripts\jquery-3.4.1-vsdoc.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.3.4.1\Content\Scripts\jquery-3.4.1.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.3.4.1\Content\Scripts\jquery-3.4.1.min.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.3.4.1\Content\Scripts\jquery-3.4.1.min.map
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.3.4.1\Content\Scripts\jquery-3.4.1.slim.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.3.4.1\Content\Scripts\jquery-3.4.1.slim.min.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.3.4.1\Content\Scripts\jquery-3.4.1.slim.min.map
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.3.4.1\Tools\common.ps1
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.3.4.1\Tools\install.ps1
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.3.4.1\Tools\jquery-3.4.1.intellisense.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.3.4.1\Tools\uninstall.ps1
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.Validation.1.17.0\.signature.p7s
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.Validation.1.17.0\Content
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.Validation.1.17.0\jQuery.Validation.1.17.0.nupkg
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.Validation.1.17.0\Content\Scripts
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.Validation.1.17.0\Content\Scripts\jquery.validate-vsdoc.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.Validation.1.17.0\Content\Scripts\jquery.validate.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\jQuery.Validation.1.17.0\Content\Scripts\jquery.validate.min.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Mvc.5.2.7\.signature.p7s
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Mvc.5.2.7\Content
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Mvc.5.2.7\lib
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Mvc.5.2.7\Microsoft.AspNet.Mvc.5.2.7.nupkg
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Mvc.5.2.7\Content\Web.config.install.xdt
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Mvc.5.2.7\Content\Web.config.uninstall.xdt
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Mvc.5.2.7\lib\net45
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Mvc.5.2.7\lib\net45\System.Web.Mvc.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Mvc.5.2.7\lib\net45\System.Web.Mvc.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Razor.3.2.7\.signature.p7s
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Razor.3.2.7\lib
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Razor.3.2.7\Microsoft.AspNet.Razor.3.2.7.nupkg
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Razor.3.2.7\lib\net45
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Razor.3.2.7\lib\net45\System.Web.Razor.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Razor.3.2.7\lib\net45\System.Web.Razor.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Web.Optimization.1.1.3\.signature.p7s
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Web.Optimization.1.1.3\Microsoft.AspNet.Web.Optimization.1.1.3.nupkg
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\system.web.optimization.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\.signature.p7s
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\Content
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\lib
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\Microsoft.AspNet.WebPages.3.2.7.nupkg
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\Content\Web.config.install.xdt
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\Content\Web.config.uninstall.xdt
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.Helpers.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.Helpers.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.WebPages.Deployment.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.WebPages.Deployment.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.WebPages.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.WebPages.Razor.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.WebPages.Razor.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.WebPages.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\.signature.p7s
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1.nupkg
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net45
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content\net45
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content\net46
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content\net45\app.config.install.xdt
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content\net45\app.config.uninstall.xdt
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content\net45\web.config.install.xdt
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content\net45\web.config.uninstall.xdt
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content\net46\app.config.install.xdt
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content\net46\app.config.uninstall.xdt
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content\net46\web.config.install.xdt
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content\net46\web.config.uninstall.xdt
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\net45
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\net45\install.ps1
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\net45\uninstall.ps1
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\csc.exe
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\csc.exe.config
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\csc.rsp
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\csi.exe
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\csi.rsp
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\Microsoft.CodeAnalysis.CSharp.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\Microsoft.CodeAnalysis.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\Microsoft.CodeAnalysis.Scripting.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\Microsoft.CSharp.Core.targets
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\Microsoft.DiaSymReader.Native.x86.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\Microsoft.VisualBasic.Core.targets
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\System.AppContext.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\System.Collections.Immutable.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\System.Diagnostics.StackTrace.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\System.IO.FileSystem.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\System.IO.FileSystem.Primitives.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\System.Reflection.Metadata.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\vbc.exe
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\vbc.exe.config
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\vbc.rsp
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\VBCSCompiler.exe
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\VBCSCompiler.exe.config
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csc.exe
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csc.exe.config
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csc.rsp
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csi.exe
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csi.exe.config
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csi.rsp
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\Microsoft.CodeAnalysis.CSharp.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\Microsoft.CodeAnalysis.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\Microsoft.CodeAnalysis.Scripting.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\Microsoft.CSharp.Core.targets
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\Microsoft.DiaSymReader.Native.x86.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\Microsoft.Managed.Core.targets
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\Microsoft.VisualBasic.Core.targets
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\Microsoft.Win32.Primitives.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.AppContext.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Collections.Immutable.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Console.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Diagnostics.DiagnosticSource.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Diagnostics.FileVersionInfo.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Diagnostics.StackTrace.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Globalization.Calendars.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.IO.Compression.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.IO.Compression.ZipFile.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.IO.FileSystem.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.IO.FileSystem.Primitives.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Net.Http.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Net.Sockets.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Reflection.Metadata.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Security.Cryptography.Algorithms.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Security.Cryptography.Encoding.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Security.Cryptography.Primitives.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Security.Cryptography.X509Certificates.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Text.Encoding.CodePages.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Threading.Tasks.Extensions.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.ValueTuple.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Xml.ReaderWriter.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Xml.XmlDocument.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Xml.XPath.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Xml.XPath.XDocument.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\vbc.exe
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\vbc.exe.config
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\vbc.rsp
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\VBCSCompiler.exe
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\VBCSCompiler.exe.config
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.jQuery.Unobtrusive.Validation.3.2.11\.signature.p7s
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.jQuery.Unobtrusive.Validation.3.2.11\Content
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.jQuery.Unobtrusive.Validation.3.2.11\Microsoft.jQuery.Unobtrusive.Validation.3.2.11.nupkg
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.jQuery.Unobtrusive.Validation.3.2.11\Content\Scripts
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.jQuery.Unobtrusive.Validation.3.2.11\Content\Scripts\jquery.validate.unobtrusive.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.jQuery.Unobtrusive.Validation.3.2.11\Content\Scripts\jquery.validate.unobtrusive.min.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.Web.Infrastructure.1.0.0.0\.signature.p7s
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.Web.Infrastructure.1.0.0.0\Microsoft.Web.Infrastructure.1.0.0.0.nupkg
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Modernizr.2.8.3\.signature.p7s
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Modernizr.2.8.3\Content
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Modernizr.2.8.3\Modernizr.2.8.3.nupkg
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Modernizr.2.8.3\Tools
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Modernizr.2.8.3\Content\Scripts
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Modernizr.2.8.3\Content\Scripts\modernizr-2.8.3.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Modernizr.2.8.3\Tools\common.ps1
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Modernizr.2.8.3\Tools\install.ps1
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Modernizr.2.8.3\Tools\uninstall.ps1
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\.signature.p7s
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\LICENSE.md
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\Newtonsoft.Json.12.0.2.nupkg
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net20
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net35
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net40
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net45
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\netstandard1.0
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\netstandard1.3
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\netstandard2.0
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\portable-net40+sl5+win8+wp8+wpa81
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\portable-net45+win8+wp8+wpa81
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net20\Newtonsoft.Json.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net20\Newtonsoft.Json.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net35\Newtonsoft.Json.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net35\Newtonsoft.Json.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net40\Newtonsoft.Json.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net40\Newtonsoft.Json.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\netstandard1.0\Newtonsoft.Json.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\netstandard1.0\Newtonsoft.Json.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\netstandard1.3\Newtonsoft.Json.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\netstandard1.3\Newtonsoft.Json.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\netstandard2.0\Newtonsoft.Json.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\netstandard2.0\Newtonsoft.Json.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\portable-net40+sl5+win8+wp8+wpa81\Newtonsoft.Json.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\portable-net40+sl5+win8+wp8+wpa81\Newtonsoft.Json.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\portable-net45+win8+wp8+wpa81\Newtonsoft.Json.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\Newtonsoft.Json.12.0.2\lib\portable-net45+win8+wp8+wpa81\Newtonsoft.Json.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\WebGrease.1.6.0\.signature.p7s
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\WebGrease.1.6.0\lib
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\WebGrease.1.6.0\tools
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\WebGrease.1.6.0\WebGrease.1.6.0.nupkg
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\WebGrease.1.6.0\lib\WebGrease.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\packages\WebGrease.1.6.0\tools\WG.EXE
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\App_Data
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\App_Start
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Content
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Controllers
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\favicon.ico
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\fonts
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Global.asax
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Global.asax.cs
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Models
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\obj
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\packages.config
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Properties
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Scripts
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Views
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Web.config
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Web.Debug.config
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Web.Release.config
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\WebAppMVC.csproj
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\WebAppMVC.csproj.user
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\App_Start\BundleConfig.cs
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\App_Start\FilterConfig.cs
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\App_Start\RouteConfig.cs
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\Antlr3.Runtime.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\Antlr3.Runtime.pdb
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\Newtonsoft.Json.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\Newtonsoft.Json.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\System.Web.Helpers.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\System.Web.Helpers.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\System.Web.Mvc.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\System.Web.Mvc.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\System.Web.Optimization.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\System.Web.Optimization.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\System.Web.Razor.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\System.Web.Razor.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\System.Web.WebPages.Deployment.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\System.Web.WebPages.Deployment.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\System.Web.WebPages.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\System.Web.WebPages.Razor.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\System.Web.WebPages.Razor.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\System.Web.WebPages.xml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\WebAppMVC.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\WebAppMVC.dll.config
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\WebAppMVC.pdb
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\WebGrease.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\csc.exe
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\csc.exe.config
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\csc.rsp
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\csi.exe
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\csi.exe.config
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\csi.rsp
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.AppContext.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.Console.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.Globalization.Calendars.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.IO.Compression.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.Net.Http.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.Net.Sockets.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.ValueTuple.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.Xml.XPath.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\vbc.exe
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\vbc.exe.config
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\vbc.rsp
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\VBCSCompiler.exe
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Content\bootstrap-theme.css
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Content\bootstrap-theme.css.map
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Content\bootstrap-theme.min.css
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Content\bootstrap-theme.min.css.map
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Content\bootstrap.css
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Content\bootstrap.css.map
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Content\bootstrap.min.css
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Content\bootstrap.min.css.map
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Content\Site.css
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Controllers\HomeController.cs
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\fonts\glyphicons-halflings-regular.eot
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\fonts\glyphicons-halflings-regular.svg
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\fonts\glyphicons-halflings-regular.ttf
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\fonts\glyphicons-halflings-regular.woff
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\fonts\glyphicons-halflings-regular.woff2
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\obj\Debug
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\obj\Debug\TempPE
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\obj\Debug\WebAppMVC.csproj.AssemblyReference.cache
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\obj\Debug\WebAppMVC.csproj.CopyComplete
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\obj\Debug\WebAppMVC.csproj.CoreCompileInputs.cache
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\obj\Debug\WebAppMVC.csproj.FileListAbsolute.txt
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\obj\Debug\WebAppMVC.dll
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\obj\Debug\WebAppMVC.pdb
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Properties\AssemblyInfo.cs
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Scripts\bootstrap.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Scripts\bootstrap.min.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Scripts\jquery-3.4.1.intellisense.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Scripts\jquery-3.4.1.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Scripts\jquery-3.4.1.min.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Scripts\jquery-3.4.1.min.map
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Scripts\jquery-3.4.1.slim.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Scripts\jquery-3.4.1.slim.min.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Scripts\jquery-3.4.1.slim.min.map
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Scripts\jquery.validate-vsdoc.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Scripts\jquery.validate.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Scripts\jquery.validate.min.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Scripts\jquery.validate.unobtrusive.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Scripts\jquery.validate.unobtrusive.min.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Scripts\modernizr-2.8.3.js
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Views\Home
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Views\Shared
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Views\Web.config
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Views\_ViewStart.cshtml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Views\Home\About.cshtml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Views\Home\Contact.cshtml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Views\Home\Index.cshtml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Views\Shared\Error.cshtml
+D:\Practice\ASP.Net(Blanks)\WebAppMVC\WebAppMVC\Views\Shared\_Layout.cshtml
